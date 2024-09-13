@@ -2,9 +2,8 @@
 
 
 format: jb-book
-root: place
+root: 1_bio
 chapters:
-- file: 1_bio
 - file: 2_cv
 - file: 3_projects
 - file: 4_pubs
