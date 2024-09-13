@@ -6,7 +6,7 @@
   
 > **British Hemp Association (BHA)**. Pollinator ield surveys and geospatial analysis.  
   
-> **Burnbot.com**. Geospatial prioritization of project treatment areas.  
+> **Burnbot**. Geospatial prioritization of project treatment areas.  
   
 > **California Department of Forestry and Fire Protection (CAL FIRE)**. Forest Health Program Strategy.  
   
