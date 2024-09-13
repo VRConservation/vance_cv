@@ -1,3 +1,3 @@
 # Vance Russell
 
-CV and Bio for Vance Russell
+Bio, CV, projects, and publications for Vance Russell
