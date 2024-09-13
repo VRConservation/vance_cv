@@ -1,0 +1,9 @@
+# Table of contents
+
+
+format: jb-book
+root: 1_cv
+chapters:
+- file: 2_bio
+- file: 3_projects
+- file: 4_pubs
