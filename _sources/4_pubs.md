@@ -8,15 +8,15 @@ Odefey, J. and V. Russell. 2020. Because it’s worth it: New Approaches for del
 
 Russell, V. 2019. Conservation technology: A game changer. CIEEM.
 
-Russell, V. 2017. What does measuring conservation outcomes mean? Linkedin blog post.
+Russell, V. 2017. What does measuring conservation outcomes mean? [National Forest Foundation](https://www.nationalforests.org/blog/what-does-measuring-conservation-outcomes-mean).
 
 Russell, V. 2017. Connecting the dots: Honduras integrated seascape management project. Fauna & Flora International.
 
-Russell, V and C. Garcia. 2017. Waving goodbye to slash-and-burn. Fauna & Flora International.
+Russell, V and C. Garcia. 2017. Waving goodbye to slash-and-burn. [Fauna & Flora International](https://phys.org/news/2018-01-goodbye-slash-and-burn.html) and phys.org.
 
 Russell, V. 2015. Building capacity for resilient forests. Your National Forests. Missoula, MT.
 
-Russell, V., C. Rose, and M. DaPrato. 2008. Informing rangeland stewardship with research: Lessons learned from Yolo County, CA. In Merenlander, et al., (eds). Sixth Oak Symposium Proceedings. PSW-GTR-217. Albany, CA.
+Russell, V., C. Rose, and M. DaPrato. 2008. Informing rangeland stewardship with research: Lessons learned from Yolo County, CA. In Merenlander, et al., (eds). Sixth Oak Symposium Proceedings. PSW-GTR-217. Albany, CA. http://gg.gg/1c3k2t.
 
 Fisher, L., V. Russell and J. Ericson. 2005. Coalition building for conservation: Latin American multi-stakeholder partnerships. (in) Protected area conservation coalitions: a guide for evaluation and strengthening. Arlington, VA: The Nature Conservancy.
 
