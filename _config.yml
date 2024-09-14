@@ -1,8 +1,6 @@
 # Book settings
 
-title: Vance Russell
-author: Vance Russell
-logo: logo2.png
+title: Vance Russell | 3point.xyz
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
