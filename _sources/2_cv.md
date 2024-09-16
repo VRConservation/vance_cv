@@ -4,15 +4,15 @@ vance@3point.xyz | https://3point.xyz
 
 ## EXPERIENCE
 
-**Conservation Consultant, 3point.xyz**. 2016-present. Providing a variety of services locally and internationally including climate change adaptation strategies, wildlands plans, rewilding, technological solutions to managing land, geospatial data analysis, habitat restoration, sustainable forest management, project management, agricultural-environment scheme planning/evaluation and innovative approaches to landscape-scale conservation. 
+**Conservation Consultant, 3point.xyz**. 2016-present. Providing a variety of services locally and internationally, including climate change adaptation strategies, wildlands plans, rewilding, technological solutions to managing land, geospatial data analysis, habitat restoration, sustainable forest management, project management, agricultural-environment scheme planning/evaluation, and innovative approaches to landscape-scale conservation. 
 
-**California Director, National Forest Foundation**. 2010-2016. Created vision, strategy and led multiple landscape-scale projects to restore and connect people to national forests. Funded, designed and implemented additional sustainable conservation funds, greenhouse gas reduction projects and collaboratives working with agencies, non-profits, the private sector and foundations. 
+**California Director, National Forest Foundation**. 2010-2016. Created vision and strategy and led multiple landscape-scale projects to restore and connect people to national forests. Funded, designed, and implemented additional sustainable conservation funds, greenhouse gas reduction projects, and collaboratives working with agencies, non-profits, the private sector, and foundations. 
 
-**Director, Landowner Stewardship Program, Audubon California**. 2002-2010. Led program and managed projects that implemented restoration, research, conservation and education projects in a manner compatible with existing agricultural land use practices. In addition, managed the Audubon Bobcat Ranch and Mayacamas Mountain Preserve. 
+**Director, Landowner Stewardship Program, Audubon California**. 2002-2010. Led program and managed projects that implemented restoration, research, conservation, and education projects in a manner compatible with existing agricultural land use practices. In addition, managed the Audubon Bobcat Ranch and Mayacamas Mountain Preserve. 
 
-**Senior Resource Planner, Kleinschmidt**. 2000-2002. Managed environmental planning, permitting and implementation projects including projects with CALFED Ecosystem Restoration Program, California Wilderness Coalition, The Nature Conservancy, Solano Irrigation District Habitat Conservation Plan, Department of Fish and Game and US Fish and Wildlife Service. 
+**Senior Resource Planner, Kleinschmidt**. 2000-2002. Managed environmental planning, permitting, and implementation projects, including projects with CALFED Ecosystem Restoration Program, California Wilderness Coalition, The Nature Conservancy, Solano Irrigation District Habitat Conservation Plan, Department of Fish and Game, and US Fish and Wildlife Service. 
 
-**Program Officer, World Wildlife Fund**. 1997-2000. Biodiversity Support Program, Analysis and Adaptive Management and Latin America and Caribbean Programs. Managed multiple projects including coalition building for conservation, impact of sustainable agriculture on conservation, Latin American and Caribbean conservation portfolio and Latin American biodiversity funding analysis. 
+**Program Officer, World Wildlife Fund**. 1997-2000. Biodiversity Support Program, Analysis and Adaptive Management, and Latin America and Caribbean Programs. Managed multiple projects, including coalition building for conservation, the impact of sustainable agriculture on conservation, Latin American and Caribbean conservation portfolio, and Latin American biodiversity funding analysis. 
 
 **Consultant, The Nature Conservancy**. 1997. Developed biodiversity and human ecological analysis tools for site conservation plans with conservation partners in the field for the Latin America and Caribbean Program. 
 
@@ -24,7 +24,7 @@ vance@3point.xyz | https://3point.xyz
 
 **Cornell University**. 1994-1996. M.S. Natural Resource Management and Forest Science. Minor in Conservation Biology and Sustainable Development. 
 
-**College of Wooster**. 1983-1987. B.A. Biology with focus on ecology and mammalian physiology. Graduated with honors and completed senior thesis.
+**College of Wooster**. 1983-1987. B.A. Biology with a focus on ecology and mammalian physiology. Graduated with honors and completed senior thesis.
 
 ## Leadership & Volunteering
 
