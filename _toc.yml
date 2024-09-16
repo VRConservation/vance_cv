@@ -1,8 +1,9 @@
 # Table of contents
 
 format: jb-book
-root: 1_bio
+root: intro
 chapters:
+- file: 1_bio
 - file: 2_cv
 - file: 3_projects
 - file: 4_pubs
