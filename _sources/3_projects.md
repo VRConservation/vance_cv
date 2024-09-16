@@ -4,7 +4,7 @@
   
 > **American Rivers**. Implementation and scaling of innovative water and forest restoration funding in the western United States.  
   
-> **British Hemp Association (BHA)**. Pollinator ield surveys and geospatial analysis.  
+> **British Hemp Association (BHA)**. Pollinator field surveys and geospatial analysis.  
   
 > **Burnbot**. Geospatial prioritization of project treatment areas.  
   
@@ -27,6 +27,8 @@
 > **Golden Gate National Parks Conservancy**. Marin County Forest Health Assessment.  
   
 > **North Coast Resource Partnership**. General support, strategy, and forest and fire capacity planning.  
+
+> **Sonoma County Wood Material Pilot**. Technical, geospatial, and socioeconomic analysis for Sonoma County's wood feedstock aggregation pilot project.  
   
 > **United States Forest Service International Programs**. Ecosystem Service Assessment of Zimbabwe's National Parks.  
   
