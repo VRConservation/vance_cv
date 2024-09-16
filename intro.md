@@ -6,8 +6,8 @@ Welcome to the Vance Russell bio, CV, projects, publications, and testimonials s
 
 The world's biodiversity is threatened by multiple factors, making conservation work a challenging prospect:
 
-🖐️ Conservation is challenging at best, exacerbated by climate change and multiple resource demands. It requires a multidisciplinary approach that taxes any organization's capacity.
-🖐️ Conservation organizations rarely have the time or capacity to measure success and incorporate learning into their project implementation. Data generation, management, and analysis are increasingly important but challenging.
+🖐️ Conservation is challenging at best, exacerbated by climate change and multiple resource demands. It requires a multidisciplinary approach that taxes any organization's capacity.<br>
+🖐️ Conservation organizations rarely have the time or capacity to measure success and incorporate learning into their project implementation. Data generation, management, and analysis are increasingly important but challenging.<br>
 🖐️ Solutions for geospatial analysis, collaborative leadership, and communications are not geared toward conservation organizations.
 
 ## Value Proposition
