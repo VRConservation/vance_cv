@@ -1,11 +1,6 @@
-# Welcome to your Jupyter Book
+# Vance Russell
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Welcome to the Vance Russell bio, CV, projects, publications, and testimonials site. Click on the links for more details and see [3point.xyz](https://3point.xyz) for more details on what we do. Don't hesitatate to contact me at vance at 3point.xyz.
 
 ```{tableofcontents}
 ```
