@@ -32,7 +32,7 @@
   
 > **United States Forest Service International Programs**. Ecosystem Service Assessment of Zimbabwe's National Parks. 
 
-> **WWF UK**. WWF UK nature, agriculture, and human impact strategy.
+> **WWF UK**. WWF UK nature, agriculture, and global footprint strategy.
   
 > **Yuba Water Agency**. Because It's Worth It: New Approaches for Delivering Sustainable Water Infrastructure to Disadvantaged California Cities.  
   
