@@ -1,6 +1,6 @@
 # Projects
 
-> **Air Carbon Exchange**. Creating a forest health benefits marketplace.  
+> **Air Carbon Exchange**. Forest health benefits marketplace app.  
   
 > **American Rivers**. Implementation and scaling of innovative water and forest restoration funding in the western United States.  
   
@@ -20,7 +20,7 @@
   
 > **Environmental Defense Fund,** United States and European Union. Field Margin Policy and Ecosystem Service Benefits Analysis.  
   
-> **Fall River Resource Conservation District**. Conservation Finance Roadmap, Feedstock Aggregation Pilot Joint Powers Authority Funding Strategy.  
+> **Fall River Resource Conservation District**. Three phased project: 1. Conservation Finance Roadmap, 2. Funding strategy, and 3. Feedstock Aggregation Pilot Joint Powers Authority Funding Strategy.  
   
 > **Fauna & Flora International**. Interim Latin America & Caribbean Program Director.  
   
