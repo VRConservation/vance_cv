@@ -20,11 +20,11 @@ Russell, V. 2015. Building capacity for resilient forests. Your National Forests
 
 Russell, V., C. Rose, and M. DaPrato. 2008. [Informing rangeland stewardship with research: Lessons learned from Yolo County, CA](http://gg.gg/1c3k2t). In Merenlander, et al., (eds). Sixth Oak Symposium Proceedings. PSW-GTR-217. Albany, CA.
 
-Fisher, L., V. Russell and J. Ericson. 2005. Coalition building for conservation: Latin American multi-stakeholder partnerships. (in) Protected area conservation coalitions: a guide for evaluation and strengthening. Arlington, VA: The Nature Conservancy.
+Fisher, L., V. Russell and J. Ericson. 2005. Coalition building for conservation: Latin American multi-stakeholder partnerships. (in) [Protected area conservation coalitions: a guide for evaluation and strengthening](https://www.cbd.int/doc/pa/tools/Protected%20Area%20Conservation%20Coalitions.pdf#page=1.00). Arlington, VA: The Nature Conservancy.
 
 Wallace, B. and V. Russell. 2002. Wild Harvest: Farming for wildlife and profitability. Davis, CA:  California Wilderness Coalition.
 
-Margoluis R., V. Russell, M. Gonzalez, and O. Rojas. 2001. The impact of sustainable agriculture on biodiversity conservation. Washington, DC:  Biodiversity Support Program.
+Margoluis R., V. Russell, M. Gonzalez, and O. Rojas. 2001. [Maximum yield? Sustainable agriculture as a tool for conservation](https://fosonline.org/wp-content/uploads/2010/10/Maximum-Yield.pdf#page=2.13). Washington, DC:  Biodiversity Support Program.
 
 Russell, V., L. Fisher, T. Robertson and R. Devine (Eds.). 1999. Coalition building and biodiversity conservation. Arlington, VA:  The Nature Conservancy, America Verde Publications.
 
