@@ -1,14 +1,14 @@
 # Welcome!
-Welcome to the 3point.xyz site for Vance Russell's bio, CV, project list, publications, and client testimonials. Work with me if you need assistance integrating geospatial, qualitative, and quantitative data with complex conservation projects. I have deep experience diversifying funding sources and measuring project success at any funding level.
+Welcome to the 3point.xyz site for Vance Russell's bio, CV, project list, publications, and client testimonials. Please click on the links for more details and see [3point.xyz](https://3point.xyz) for more details on what we do and my [linkedin page](https://www.linkedin.com/in/vance-russell-ab596810) for additional information. Please don't hesitate to contact me at vance at 3point.xyz.
 
 ## Background
-Please click on the links for more details and see [3point.xyz](https://3point.xyz) for more details on what we do and [my linkedin page](https://www.linkedin.com/in/vance-russell-ab596810) for additional information. Please don't hesitate to contact me at vance at 3point.xyz.
-
 The world's biodiversity is threatened by multiple factors, making conservation work a challenging prospect:
 
 🖐️ Conservation is challenging at best, exacerbated by climate change and multiple resource demands. It requires a multidisciplinary approach that taxes any organization's capacity.<br>
 🖐️ Conservation organizations rarely have the time or capacity to measure success and incorporate learning into their project implementation. Data generation, management, and analysis are increasingly important but challenging.<br>
 🖐️ Solutions for geospatial analysis, collaborative leadership, and communications are not geared toward conservation organizations.
+
+Work with me if you need assistance integrating geospatial, qualitative, and quantitative data with complex conservation projects. I have deep experience diversifying funding sources and measuring project success at any funding level.
 
 ## Value Proposition
 3point.xyz offers the following solutions to conservation problems:
