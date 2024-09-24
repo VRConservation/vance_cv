@@ -2,7 +2,7 @@
 
 Russell, V. 2024. [Free & Open Source Geospatial Tools](https://3point.xyz/geosp). 3point.xyz.
 
-Russell, V. 2024. [Forest Business Alliance Guide](https://forestbiz.info/).  Forest Business Alliance.
+Russell, V. 2024. [Forest Business Alliance Guide](https://forestbiz.info/). Forest Business Alliance.
 
 Russell, V. and Sacco, C. 2023. [Spatial Business Planning: Scaling Forestry Businesses with Situation Assessments and Geospatial Analysis](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693). Forest Business Alliance. 
 
