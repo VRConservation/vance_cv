@@ -12,7 +12,7 @@ subprocess.run(["jb", "build", "--all", "."], check=True)
 
 # Push and sync the repository to GitHub make sure to change the 'Update repo' message
 subprocess.run(["git", "add", "."], check=True)
-subprocess.run(["git", "commit", "-m", "Sonoma spelling error"], check=True)
+subprocess.run(["git", "commit", "-m", "Project updates"], check=True)
 subprocess.run(["git", "push"], check=True)
 
 # Define the path to the intro.html file
