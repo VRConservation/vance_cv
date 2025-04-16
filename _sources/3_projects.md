@@ -30,7 +30,7 @@
   
 > **North Coast Resource Partnership**. General support, strategy, and forest and fire capacity planning.  
 
-> **Sonoma County Wood Material Pilot**. Technical, geospatial, and socioeconomic analysis for Sonoma County's wood feedstock aggregation pilot project.  
+> **Sonoma County Woody Material Pilot**. Technical, geospatial, and socioeconomic analysis for Sonoma County's wood feedstock aggregation pilot project.  
 
 > **Latin America & Caribbean Program, The Nature Conservancy**. Biodiversity and human ecological analysis tools.
   
