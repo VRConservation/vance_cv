@@ -27,6 +27,8 @@
 > **Fauna & Flora International**. Interim Latin America & Caribbean Program Director.  
 
 > **Hat Creek Lumber**. Funding plan and pitch deck for public private partnership.
+
+> **Healthy Eldorado Landscape Partnership**. Creation and implementation of a landscape collaborative and conservation finance across the Eldorado National Forest.
   
 > **Golden Gate National Parks Conservancy**. Marin County Forest Health Assessment.  
   
