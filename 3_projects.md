@@ -25,12 +25,16 @@
 > **Fall River Resource Conservation District**. Three phased project: 1. Conservation Finance Roadmap, 2. Funding strategy, and 3. Feedstock Aggregation Pilot Joint Powers Authority Funding Strategy.  
   
 > **Fauna & Flora International**. Interim Latin America & Caribbean Program Director.  
+
+> **Hat Creek Lumber**. Funding plan and pitch deck for public private partnership.
   
 > **Golden Gate National Parks Conservancy**. Marin County Forest Health Assessment.  
   
 > **Latin America & Caribbean Program, The Nature Conservancy**. Biodiversity and human ecological analysis tools.
   
 > **North Coast Resource Partnership**. General support, strategy, and forest and fire capacity planning.  
+
+> **Resources Legacy Fund**. Developing & implementing the State-owned Lands Forest Resilience Strategy for the Wildfire Resilience Task Force.
 
 > **Sonoma County Woody Material Pilot**. Technical, geospatial, and socioeconomic analysis for Sonoma County's woody feedstock aggregation pilot project.  
 
@@ -39,5 +43,7 @@
 > **WWF UK**. WWF UK nature, agriculture, and global footprint strategy.
   
 > **Yuba Water Agency**. Because It's Worth It: New Approaches for Delivering Sustainable Water Infrastructure to Disadvantaged California Cities.  
-  
+
+> **Yuba Water Agency**. Forest Business Alliance Pilot.  
+
 > **Zoological Society of London**. Strategic program advice for Southeast Asia and Africa Programs.
