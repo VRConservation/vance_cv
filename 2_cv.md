@@ -28,6 +28,8 @@ vance@3point.xyz | https://3point.xyz
 
 ## Leadership & Volunteering
 
+2024-present, Wildlab.net, Geospatial Group co-lead.
+
 2023-present. Member, Civic Consulting Collaborative
 
 2018-present. Leadership Council, The Rewilding Institute
