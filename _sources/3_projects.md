@@ -50,7 +50,7 @@
 > **Yuba Water Agency**. Forest Business Alliance Pilot. 
 
 ## Geospatial
-Project listed elsewhere that included geospatial include CA Departments of Parks and Recreation, Fall River RCD, State Park Forest Strategy and Mt. San Jacinto Strategy, RLF State-owned Lands Sstrategy, Hat Creek Lumber, GGNPC Marin Forest Health Assessment, Sonoma Woody Material Pilot, USFS Zimbabwe Ecosystem Service Assessment, and YWA FBA Pilot.
+Project listed elsewhere that included geospatial include CA Departments of Parks and Recreation, State Park Forest Strategy and Mt. San Jacinto Strategy, Fall River RCD, GGNPC Marin Forest Health Assessment, Hat Creek Lumber, RLF State-owned Lands Strategy, Sonoma Woody Material Pilot, USFS Zimbabwe Ecosystem Service Assessment, and YWA FBA Pilot.
 
 > **British Hemp Association (BHA)**. Pollinator field surveys and geospatial analysis.  
   
