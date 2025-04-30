@@ -12,9 +12,9 @@ Odefey, J. and V. Russell. 2020. [Because it’s worth it: New Approaches for de
 
 Odefey, J and V. Russell. 2020. [Innovative Finance Issues Briefs](https://srfadacip.com/docs/). Sacramento River Funding Area, Disadvantaged Community Involvement Program. Yuba Water Agency, Department Water Resources.
 
-Russell, V and J. Odefey. 2021. Finding the arrowhead: The collaborative finance roadmap. [URL](https://urlshorter.net/TOXwqp).
+Russell, V and J. Odefey. 2021. [Finding the arrowhead: The collaborative finance roadmap](https://www.linkedin.com/pulse/finding-arrowhead-vance-russell/).
 
-Russell, V and E. Holst. 2019. Good fire vs. bad fire. Revised 2024 and published on [Linkedin](https://urlshorter.net/ecNrJQ).
+Russell, V and E. Holst. 2024. [Good fire vs. bad fire](https://www.linkedin.com/pulse/good-fire-vs-bad-vance-russell-xrzjc/).
 
 Russell, V. 2017. [What does measuring conservation outcomes mean?](https://www.nationalforests.org/blog/what-does-measuring-conservation-outcomes-mean). National Forest Foundation.
 
