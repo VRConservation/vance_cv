@@ -1,6 +1,7 @@
 # C.V.
-+44 7725 467072 <br>
-<a href= "mailto:vance@3point.xyz">vance@3point.xyz</a> | [3point.xyz](https://3point.xyz)
+
+<a href= "mailto:vance@3point.xyz">vance@3point.xyz</a> | [3point.xyz](https://3point.xyz)<br>
++44 7725 467072
 
 ## EXPERIENCE
 
