@@ -1,6 +1,6 @@
 # C.V.
 530.608.6607 | +44 7725 467072 <br>
-vance@3point.xyz | https://3point.xyz
+<a href= "mailto:vance@3point.xyz">vance@3point.xyz</a> | [3point.xyz](https://3point.xyz)
 
 ## EXPERIENCE
 
