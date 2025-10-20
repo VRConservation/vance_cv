@@ -6,8 +6,6 @@
 > **Defenders of Wildlife**. Wolves Pay-for-Presence Program in California. 
 
 > **Distributed Energy Financial Group**. Behavioral Resource Economics and Energy Conservation Study.  
-  
-> **Environmental Defense Fund,** United States and European Union. Field Margin Policy and Ecosystem Service Benefits Analysis.  
 
 > **Fauna & Flora International**. Interim Latin America & Caribbean Program Director.  
 
@@ -22,10 +20,6 @@
 
 > **Fall River Resource Conservation District**. Three phased project: 1. Conservation Finance Roadmap, 2. Funding strategy, and 3. Feedstock Aggregation Pilot Joint Powers Authority Funding Strategy. 
 
-> **United States Forest Service International Programs**. Ecosystem Service Assessment of Zimbabwe's National Parks. 
-
-> **WWF UK**. WWF UK nature, agriculture, and global footprint strategy.
-  
 > **Yuba Water Agency**. Because It's Worth It: New Approaches for Delivering Sustainable Water Infrastructure to Disadvantaged California Cities. 
 
 ## Forest Health
@@ -49,9 +43,19 @@
 
 > **Yuba Water Agency**. Forest Business Alliance Pilot. 
 
-## Geospatial
+## Ecosystem Services
 Project listed elsewhere that included geospatial include CA Departments of Parks and Recreation, State Park Forest Strategy and Mt. San Jacinto Strategy, Fall River RCD, GGNPC Marin Forest Health Assessment, Hat Creek Lumber, RLF State-owned Lands Strategy, Sonoma Woody Material Pilot, USFS Zimbabwe Ecosystem Service Assessment, and YWA FBA Pilot.
 
 > **British Hemp Association (BHA)**. Pollinator field surveys and geospatial analysis.  
   
 > **Burnbot**. Geospatial prioritization of project treatment areas.  
+  
+> **Environmental Defense Fund,** United States and European Union. Field Margin Policy and Ecosystem Service Benefits Analysis.  
+
+**North Coast Resource Partnership**. Climate disaster insurance strategy (Flooding, Sea Level Rise, Wildfire).
+
+**The Watershed Research and Training Center**. Water Related Ecosystem Benefits and Beneficiary Geospatial Database. Led by Spatial Informatics Group and FlowWest.
+
+**United States Forest Service International Programs**. Ecosystem Service Assessment of Zimbabwe's National Parks. 
+
+**WWF UK**. WWF UK nature, agriculture, and global footprint strategy.
