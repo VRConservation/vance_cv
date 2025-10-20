@@ -1,4 +1,5 @@
 # Publications
+Russell, V. 2025. [JPA Funding Strategies](https://3point.xyz/neca_jpa).
 
 Russell, V. 2024. [Free & Open Source Geospatial Tools](https://3point.xyz/geosp).
 
