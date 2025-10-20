@@ -44,7 +44,6 @@
 > **Yuba Water Agency**. Forest Business Alliance Pilot. 
 
 ## Ecosystem Services
-Project listed elsewhere that included geospatial include CA Departments of Parks and Recreation, State Park Forest Strategy and Mt. San Jacinto Strategy, Fall River RCD, GGNPC Marin Forest Health Assessment, Hat Creek Lumber, RLF State-owned Lands Strategy, Sonoma Woody Material Pilot, USFS Zimbabwe Ecosystem Service Assessment, and YWA FBA Pilot.
 
 > **British Hemp Association (BHA)**. Pollinator field surveys and geospatial analysis.  
   
@@ -52,10 +51,10 @@ Project listed elsewhere that included geospatial include CA Departments of Park
   
 > **Environmental Defense Fund,** United States and European Union. Field Margin Policy and Ecosystem Service Benefits Analysis.  
 
-**North Coast Resource Partnership**. Climate disaster insurance strategy (Flooding, Sea Level Rise, Wildfire).
+> **North Coast Resource Partnership**. Climate disaster insurance strategy (Flooding, Sea Level Rise, Wildfire).
 
-**The Watershed Research and Training Center**. Water Related Ecosystem Benefits and Beneficiary Geospatial Database. Led by Spatial Informatics Group and FlowWest.
+> **The Watershed Research and Training Center**. Water Related Ecosystem Benefits and Beneficiary Geospatial Database. Led by Spatial Informatics Group and FlowWest.
 
-**United States Forest Service International Programs**. Ecosystem Service Assessment of Zimbabwe's National Parks. 
+> **United States Forest Service International Programs**. Ecosystem Service Assessment of Zimbabwe's National Parks. 
 
-**WWF UK**. WWF UK nature, agriculture, and global footprint strategy.
+> **WWF UK**. WWF UK nature, agriculture, and global footprint strategy.
