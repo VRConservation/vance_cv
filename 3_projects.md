@@ -49,7 +49,7 @@
   
 > **Burnbot**. Geospatial prioritization of project treatment areas.  
   
-> **Environmental Defense Fund,** United States and European Union. Field Margin Policy and Ecosystem Service Benefits Analysis.  
+> **Environmental Defense Fund**. United States and European Union. Field Margin Policy and Ecosystem Service Benefits Analysis.  
 
 > **North Coast Resource Partnership**. Climate disaster insurance strategy (Flooding, Sea Level Rise, Wildfire).
 
